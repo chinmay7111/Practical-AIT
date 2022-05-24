@@ -1,0 +1,46 @@
+
+.backimg{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/dyp1.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+
+}
+.nav{
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.footer{
+    width: 100vw;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(106, 134, 158);
+
+}
+
+.footer p{
+    color: aliceblue;
+    font-size: 15px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 50px;
+}
+
+.carrds{
+    margin: 0 auto;
+    padding: 350px 250px;
+}
+
+
+.name{
+    padding-left: 90px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
